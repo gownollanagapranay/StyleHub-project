@@ -1,0 +1,11 @@
+# Git ignore files
+venv/
+__pycache__/
+.env
+*.db
+node_modules/
+dist/
+.vscode/
+.idea/
+*.log
+.DS_Store
